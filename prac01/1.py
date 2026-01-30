@@ -18,9 +18,10 @@ print(variable, VarIable, _var, _j_hp)
 
 fruits = ["apple", "banana", "cherry"]
 x, y, z = fruits
+#there are 3 variants of printing
 print(x)
 print(y)
 print(z)
 
-print(x, y, z)
+print(x, y, z) 
 print(x + y + z)
