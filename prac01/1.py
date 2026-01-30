@@ -29,5 +29,4 @@ x,y,z=fruits
 print(x)
 print(y)
 print(z)
-
-#or print(x,y,z) or print(x+y+z)
+#or "print(x,y,z) or print(x+y+z)"
